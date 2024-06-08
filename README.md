@@ -1,4 +1,4 @@
-# V2T 
+# V2T - https://t.me/gh_v2t_bot
 - V2T is a telegram bot which automatically transcribes all voice and video messages to text in such manner:
 ![image](https://github.com/Shtirmann/V2T/assets/103894479/ca185921-5e7c-4f4f-bc7d-55db11a54627)
 
